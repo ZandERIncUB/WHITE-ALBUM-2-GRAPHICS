@@ -1,6 +1,6 @@
 # Графічний ремастер White Album 2
 
-[Завантажити інсталятор 1.0.0 (ZIP, 1,95 ГБ)](https://github.com/ZandERIncUB/WHITE-ALBUM-2-GRAPHICS/releases/download/v1.0.0/White_Album_2_Graphics_patch_1.0.0.zip)
+[Завантажити інсталятор 1.0.0 (ZIP, 1,95 ГБ)]([https://github.com/ZandERIncUB/WHITE-ALBUM-2-GRAPHICS/releases/download/v1.0.0/White_Album_2_Graphics_patch_1.0.0.zip)](https://drive.google.com/file/d/1vCMFZVeehvZGjhOrl7nXb2wwcwSOEDqE/view?usp=sharing)
 
 [Сторінка релізу та контрольна сума](https://github.com/ZandERIncUB/WHITE-ALBUM-2-GRAPHICS/releases/tag/v1.0.0)
 
